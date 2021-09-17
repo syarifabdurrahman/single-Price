@@ -11,7 +11,7 @@ body{
 }
 
 .box{
-    padding: 9% 20% 2%;
+    padding: 9% 25% 2%;
 }
 
 /* Card */
@@ -39,7 +39,7 @@ body{
 
 .top-text{
     color: hsl(218, 22%, 67%);
-    padding-right: 25%;
+    padding-right: 10%;
 }
 
 .btm-card {
